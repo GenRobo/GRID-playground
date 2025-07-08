@@ -1,6 +1,6 @@
-# General Robot Intelligence Development (GRID) Platform
+# GRID Playground | General Robotics
 
-GRID is a platform built by General Robotics to function as every robot's AI team: enabling the creation and seamless infusion of safe intelligence into your robots. 
+The General Robot Intelligence Development (GRID) platform is a platform built by General Robotics to bring AI skills to every robot. This repository hosts sample notebooks and configurations for interacting with the GRID platform.  
 
 ![every-robots-ai-team](https://github.com/user-attachments/assets/a2906d8f-b1fe-4d13-aba5-e1fc17b7757f)
 
