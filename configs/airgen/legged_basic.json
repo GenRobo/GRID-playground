@@ -1,0 +1,35 @@
+{
+    "sim": {
+        "sim_type": "airgen",
+        "scene_name": "blocks",
+        "kwargs": {
+            "geo": false
+        },
+        "settings": {
+            "SettingsVersion": 2.0,
+            "SimMode": "CVMover",
+            "Vehicles": {
+                "Drone": {
+                    "VehicleType": "CVMover",
+                    "VehicleModel": "UnitreeGo2"
+                }
+            },
+            "OriginGeopoint": {
+                "Latitude": 47.62094998919241,
+                "Longitude": -122.35554810901883,
+                "Altitude": 100
+            }
+        }
+    },
+    "grid": {
+        "entities": {
+            "robot": [
+                {
+                    "name": "airgen-quad",
+                    "kwargs": {}
+                }
+            ],
+            "model": []
+        }
+    }
+}
