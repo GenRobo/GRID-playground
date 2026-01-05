@@ -1,19 +1,19 @@
 {
   "sim": {
     "sim_type": "isaac5",
-    "scene_name": "isaac_fullwarehouse",
+    "scene_name": "isaac_tabletop",
     "kwargs": {
       "geo": false
     },
     "settings": {
-      "robot_name": "isaac_go2"
+      "robot_name": "isaac_franka_kb"
     }
   },
   "grid": {
     "entities": {
       "robot": [
         {
-          "name": "isaac-locomotion",
+          "name": "isaac-arm",
           "kwargs": {}
         }
       ],
