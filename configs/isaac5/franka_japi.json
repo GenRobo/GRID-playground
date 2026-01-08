@@ -1,0 +1,23 @@
+{
+  "sim": {
+    "sim_type": "isaac5",
+    "scene_name": "isaac_tabletop",
+    "kwargs": {
+      "geo": false
+    },
+    "settings": {
+      "robot_name": "isaac_franka_japi"
+    }
+  },
+  "grid": {
+    "entities": {
+      "robot": [
+        {
+          "name": "isaac-arm",
+          "kwargs": {}
+        }
+      ],
+      "model": []
+    }
+  }
+}

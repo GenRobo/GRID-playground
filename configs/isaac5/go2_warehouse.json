@@ -1,0 +1,23 @@
+{
+  "sim": {
+    "sim_type": "isaac5",
+    "scene_name": "isaac_warehouse",
+    "kwargs": {
+      "geo": false
+    },
+    "settings": {
+      "robot_name": "isaac_go2_rlagent"
+    }
+  },
+  "grid": {
+    "entities": {
+      "robot": [
+        {
+          "name": "isaac-locomotion",
+          "kwargs": {}
+        }
+      ],
+      "model": []
+    }
+  }
+}
